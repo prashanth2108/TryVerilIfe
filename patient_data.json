@@ -1,0 +1,22 @@
+{
+  "patientList": [
+    {
+      "patientId": 0,
+      "patientName": "",
+      "dob": "",
+      "bloodGroup": "",
+      "phoneNumber": "",
+      "email": "",
+      " effectiveDate": "",
+      "address": {
+        "line": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "pincode": 0
+      }
+    
+    
+    }
+  ]
+}
